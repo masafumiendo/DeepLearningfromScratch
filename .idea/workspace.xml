@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="285643f9-ee2e-48d2-950f-48bc3d92640f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter_03/relu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_03/sig_step_compare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_03/sigmoid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_03/step_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_03/three_layer_nn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_03/mnist_show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_03/neuralnet_mnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_03/neuralnet_mnist_batch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,65 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_03/step_function.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_03/sigmoid.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_03/sig_step_compare.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_03/relu.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter_03/three_layer_nn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -98,6 +38,9 @@
         <option value="$PROJECT_DIR$/chapter_03/sig_step_compare.py" />
         <option value="$PROJECT_DIR$/chapter_03/relu.py" />
         <option value="$PROJECT_DIR$/chapter_03/three_layer_nn.py" />
+        <option value="$PROJECT_DIR$/chapter_03/mnist_show.py" />
+        <option value="$PROJECT_DIR$/chapter_03/neuralnet_mnist.py" />
+        <option value="$PROJECT_DIR$/chapter_03/neuralnet_mnist_batch.py" />
       </list>
     </option>
   </component>
@@ -118,11 +61,6 @@
             <path>
               <item name="DeepLearningfromScratch" type="b2602c69:ProjectViewProjectNode" />
               <item name="DeepLearningfromScratch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DeepLearningfromScratch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearningfromScratch" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -253,15 +191,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-57" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1864139" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1864139" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32970297" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32970297" />
@@ -269,6 +202,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -308,28 +245,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_03/step_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_03/sig_step_compare.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_03/relu.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -338,8 +255,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_03/sigmoid.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="30">
           <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_03/sig_step_compare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_03/relu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -348,8 +285,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter_03/three_layer_nn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+        <state relative-caret-position="330">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_03/mnist_show.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_03/neuralnet_mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_03/neuralnet_mnist_batch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
